@@ -18,7 +18,7 @@
 
   <modules>
     <module>devops</module>
-    <module>devops</module>
+    <module>devops-code2022</module>
   </modules>
 
   <distributionManagement>
